@@ -19,10 +19,6 @@ import io
 import base64
 import networkx as nx
 
-
-
-
-#g = Github("sahanacs66", "QEtuo#90")
 g = Github("aebf2c813b4d40cd2832b0fff6bfa744c090a5c5")
 app = Flask(__name__)
 
